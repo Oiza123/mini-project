@@ -1,1 +1,1 @@
-Mini project for javascript practical
+first project
